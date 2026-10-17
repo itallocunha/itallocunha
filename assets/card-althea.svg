@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8f4dff"/><stop offset="1" stop-color="#0b0716"/></linearGradient>
+<pattern id="d" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="2" height="2" fill="#ffd23a" opacity=".18"/></pattern></defs>
+<style>
+.t{font-family:'Courier New',Consolas,monospace;font-size:27px;font-weight:900;letter-spacing:2px;fill:#ffd23a}
+.s{font-family:'Courier New',Consolas,monospace;font-size:14px;fill:#fff;letter-spacing:1px;font-weight:700}
+.ds{font-family:'Courier New',Consolas,monospace;font-size:14px;fill:#cdbfee}
+.tg{font-family:'Courier New',Consolas,monospace;font-size:11px;font-weight:700;letter-spacing:1px}
+.go{font-family:'Courier New',Consolas,monospace;font-size:13px;fill:#ffd23a;font-weight:700;letter-spacing:2px;animation:go 1.6s ease-in-out infinite}
+@keyframes go{50%{transform:translateX(6px)}}
+.sh{animation:sh 4.5s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-200px)}60%,100%{transform:translateX(790px)}}
+.bd{animation:bd 3s ease-in-out infinite}@keyframes bd{50%{stroke-opacity:.35}}
+</style>
+<clipPath id="cl"><rect width="590" height="250" rx="14"/></clipPath>
+<g clip-path="url(#cl)">
+<rect width="590" height="250" fill="url(#g)"/><rect width="590" height="250" fill="url(#d)"/>
+<polygon class="sh" points="0,0 40,0 10,250 -30,250" fill="#fff" opacity=".07"/>
+<rect x="24" y="22" width="46" height="6" fill="#ffd23a"/>
+<text class="t" x="24" y="62">ALTHEA</text>
+<text class="s" x="24" y="90">RPG gamificado de autoconhecimento</text>
+<text class="ds" x="24" y="120">Cinco Orbes, jornada de personagem e um app que</text><text class="ds" x="24" y="142">transforma a reflexão em campanha.</text><rect x="24" y="196" width="121" height="24" fill="#ffd23a" fill-opacity=".14" stroke="#ffd23a" stroke-opacity=".6"/><text class="tg" x="84.5" y="213" text-anchor="middle" fill="#ffd23a">GAME DESIGN</text><rect x="155" y="196" width="103" height="24" fill="#ffd23a" fill-opacity=".14" stroke="#ffd23a" stroke-opacity=".6"/><text class="tg" x="206.5" y="213" text-anchor="middle" fill="#ffd23a">NARRATIVA</text><rect x="268" y="196" width="166" height="24" fill="#ffd23a" fill-opacity=".14" stroke="#ffd23a" stroke-opacity=".6"/><text class="tg" x="351.0" y="213" text-anchor="middle" fill="#ffd23a">APP · TYPESCRIPT</text>
+<text class="go" x="566" y="236" text-anchor="end">VER PROJETO ▸</text>
+</g>
+<rect class="bd" x="1.5" y="1.5" width="587" height="247" rx="14" fill="none" stroke="#ffd23a" stroke-width="2"/>
+</svg>

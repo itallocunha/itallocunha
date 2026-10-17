@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140a2c"/><stop offset="1" stop-color="#0b0716"/></linearGradient></defs>
+<style>
+.lb{font-family:'Courier New',Consolas,monospace;font-size:14px;font-weight:700;fill:#d9ccff;letter-spacing:2px}
+.h{font-family:'Courier New',Consolas,monospace;font-size:13px;fill:#8f7bc0;letter-spacing:3px}
+.nm{font-family:'Courier New',Consolas,monospace;font-size:34px;font-weight:900;fill:#ffd23a;letter-spacing:3px}
+.cl{font-family:'Courier New',Consolas,monospace;font-size:17px;fill:#fff;letter-spacing:2px}
+.bl{animation:bl 1.2s steps(2) infinite}@keyframes bl{50%{opacity:0}}
+.fl{animation:fl 3.5s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-8px)}}
+</style>
+<rect width="1200" height="380" rx="18" fill="url(#b)"/>
+<rect x="1" y="1" width="1198" height="378" rx="18" fill="none" stroke="#8f4dff" stroke-opacity=".7" stroke-width="2"/>
+<text class="h" x="40" y="48">▌FICHA DO PERSONAGEM</text>
+<text class="h" x="1160" y="48" text-anchor="end">SAVE 01 · <tspan class="bl">●</tspan> AO VIVO</text>
+<line x1="40" y1="62" x2="1160" y2="62" stroke="#3a2570"/>
+<g class="fl"><g transform="translate(60,100) scale(7)" shape-rendering="crispEdges">
+<rect x="4" y="0" width="8" height="2" fill="#8f4dff"/><rect x="3" y="2" width="10" height="2" fill="#8f4dff"/>
+<rect x="3" y="4" width="10" height="5" fill="#f2c9a0"/><rect x="5" y="5" width="2" height="2" fill="#0b0716"/><rect x="9" y="5" width="2" height="2" fill="#0b0716"/>
+<rect x="4" y="9" width="8" height="1" fill="#f2c9a0"/>
+<rect x="2" y="10" width="12" height="6" fill="#ffd23a"/><rect x="6" y="10" width="4" height="6" fill="#8f4dff"/>
+<rect x="0" y="11" width="2" height="4" fill="#f2c9a0"/><rect x="14" y="11" width="2" height="4" fill="#f2c9a0"/>
+<rect x="4" y="16" width="3" height="3" fill="#3a2570"/><rect x="9" y="16" width="3" height="3" fill="#3a2570"/>
+</g></g>
+<text class="nm" x="220" y="132">ITALLO</text>
+<text class="cl" x="220" y="168">CLASSE: GAME DESIGNER</text>
+<text class="cl" x="220" y="198" fill="#35e0ff">SUBCLASSE: EDUCADOR</text>
+<text class="cl" x="220" y="228" fill="#ff9ad5">GUILDA: SUPER GEEKS</text>
+<text class="cl" x="220" y="258" fill="#b9a6e8">UNIVALI · 7º PERÍODO</text>
+<text class="h" x="220" y="304">ES FLUENTE · EN INTERMEDIÁRIO</text>
+<text class="h" x="220" y="330">MISSÃO: PRIMEIRA VAGA EM GAME DESIGN</text>
+<text class="h" x="560" y="92">▌ATRIBUTOS</text>
+<text class="lb" x="560" y="122">GAME DESIGN</text><text class="lb" x="840" y="122" text-anchor="end" fill="#ffd23a">92</text>
+<rect x="560" y="134" width="280" height="16" fill="#1d1236" stroke="#3a2570"/>
+<rect x="562" y="136" width="0" height="12" fill="#ffd23a"><animate attributeName="width" from="0" to="254" dur="1.6s" begin="0.00s" fill="freeze"/></rect>
+<rect x="562" y="136" width="254" height="4" fill="#fff" opacity=".25"/><text class="lb" x="880" y="122">PIXEL ART</text><text class="lb" x="1160" y="122" text-anchor="end" fill="#ff9ad5">86</text>
+<rect x="880" y="134" width="280" height="16" fill="#1d1236" stroke="#3a2570"/>
+<rect x="882" y="136" width="0" height="12" fill="#ff9ad5"><animate attributeName="width" from="0" to="237" dur="1.6s" begin="0.25s" fill="freeze"/></rect>
+<rect x="882" y="136" width="237" height="4" fill="#fff" opacity=".25"/><text class="lb" x="560" y="198">PROGRAMAÇÃO</text><text class="lb" x="840" y="198" text-anchor="end" fill="#35e0ff">74</text>
+<rect x="560" y="210" width="280" height="16" fill="#1d1236" stroke="#3a2570"/>
+<rect x="562" y="212" width="0" height="12" fill="#35e0ff"><animate attributeName="width" from="0" to="203" dur="1.6s" begin="0.50s" fill="freeze"/></rect>
+<rect x="562" y="212" width="203" height="4" fill="#fff" opacity=".25"/><text class="lb" x="880" y="198">ENSINO</text><text class="lb" x="1160" y="198" text-anchor="end" fill="#8f4dff">90</text>
+<rect x="880" y="210" width="280" height="16" fill="#1d1236" stroke="#3a2570"/>
+<rect x="882" y="212" width="0" height="12" fill="#8f4dff"><animate attributeName="width" from="0" to="248" dur="1.6s" begin="0.75s" fill="freeze"/></rect>
+<rect x="882" y="212" width="248" height="4" fill="#fff" opacity=".25"/><text class="lb" x="560" y="274">NARRATIVA / RPG</text><text class="lb" x="840" y="274" text-anchor="end" fill="#ff6a6a">88</text>
+<rect x="560" y="286" width="280" height="16" fill="#1d1236" stroke="#3a2570"/>
+<rect x="562" y="288" width="0" height="12" fill="#ff6a6a"><animate attributeName="width" from="0" to="242" dur="1.6s" begin="1.00s" fill="freeze"/></rect>
+<rect x="562" y="288" width="242" height="4" fill="#fff" opacity=".25"/><text class="lb" x="880" y="274">IA APLICADA</text><text class="lb" x="1160" y="274" text-anchor="end" fill="#7dffb0">70</text>
+<rect x="880" y="286" width="280" height="16" fill="#1d1236" stroke="#3a2570"/>
+<rect x="882" y="288" width="0" height="12" fill="#7dffb0"><animate attributeName="width" from="0" to="192" dur="1.6s" begin="1.25s" fill="freeze"/></rect>
+<rect x="882" y="288" width="192" height="4" fill="#fff" opacity=".25"/>
+</svg>
