@@ -5,7 +5,7 @@
 <br>
 
 [![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-itallocunha.github.io-8f4dff?style=for-the-badge&labelColor=0b0716)](https://itallocunha.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-itallo--cunha-35e0ff?style=for-the-badge&labelColor=0b0716)](https://www.linkedin.com/in/itallo-cunha)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-itallo--cunha-35e0ff?style=for-the-badge&labelColor=0b0716)](https://www.linkedin.com/in/itallo-cunha-de-oliveira-72a28b330)
 [![ArtStation](https://img.shields.io/badge/ARTSTATION-monatsuh-ffd23a?style=for-the-badge&labelColor=0b0716)](https://www.artstation.com/monatsuh)
 [![Behance](https://img.shields.io/badge/BEHANCE-itallocunhad1-ff9ad5?style=for-the-badge&labelColor=0b0716)](https://www.behance.net/itallocunhad1)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@itallocunha__-ff6a6a?style=for-the-badge&labelColor=0b0716)](https://www.instagram.com/itallocunha_)
